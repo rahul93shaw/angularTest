@@ -11,19 +11,13 @@
 
 ## Code assignment details
 
-1.UseAngular, with all basic libraries required to achieve the result inpackage.json file.
-
-2.Create new components displaying messages of your choice and output them beneath one another.
-
-3.Create Application header and footer
-
-4.Style the components using SCSS.
-
-5.Show simple CRUD example 
-
-6.The example should contain lazy loading routing.
-
-7.Use angular reactive forms for CRUD operations(ADD and Update) 
+1. UseAngular, with all basic libraries required to achieve the result inpackage.json file.
+2. Create new components displaying messages of your choice and output them beneath one another.
+3. Create Application header and footer
+4. Style the components using SCSS.
+5. Show simple CRUD example 
+6. The example should contain lazy loading routing.
+7. Use angular reactive forms for CRUD operations(ADD and Update) 
 
 ## Steps and commands to run the application
 
